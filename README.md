@@ -8,12 +8,14 @@ Udacity BikeShare Project
 
 ### Description
 A program that runs the statistics of multiple data pools related to bicycle sharing/renting
+The program uses pandas library with basic methods of statistics to perform descriptive analysis on the bike share data
 
 ### Files used
-new_york_city. csc
+new_york_city.csv
 chicago.csv
 washington.csv
 
 ### Credits
 Thanks to Udacity, you guys are amazing, this project is amazing.
+Aritra96 - Aritra's repository helped me understand the structure of this project better
 
