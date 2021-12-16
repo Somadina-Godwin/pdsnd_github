@@ -13,7 +13,6 @@ A program that runs the statistics of multiple data pools related to bicycle sha
 new_york_city. csc
 chicago.csv
 washington.csv
-Bikeshare.py
 
 ### Credits
 Thanks to Udacity, you guys are amazing, this project is amazing.
