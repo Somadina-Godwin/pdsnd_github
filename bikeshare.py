@@ -32,7 +32,7 @@ def get_filters():
         if month in months:
             break
         else:
-            print("\n Kindluy enter a correct month")    
+            print("\n Kindly enter a correct month")    
 
     while True:
         days= ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday','None']
@@ -85,7 +85,7 @@ def load_data(city, month, day):
 def time_stats(df,month,day):
     """Displays statistics on the most frequent times of travel."""
 
-    print('\nComputing The Most Frequent Times of Travel...\n')
+    print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
 
     # display the most common month
